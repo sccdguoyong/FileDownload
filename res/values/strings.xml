@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FileDownload</string>
+    <string name="action_settings">Settings</string>
+    <string name="url_String">http://dl.app.sogou.com/appdown/85AAE59DB76606F96CF97C52802BB5E4/-677126609/889205/5348155883</string>
+    <string name="add_task">添加任务</string>
+    <string name="download_progress">下载进度</string>
+    <string name="btn_start">开始</string>
+    <string name="btn_pause">暂停</string>
+    <string name="btn_resume">继续</string>
+    <string name="btn_stop">删除</string>
+    <string name="enpty_path">输入的路径不能为空</string>
+
+</resources>
